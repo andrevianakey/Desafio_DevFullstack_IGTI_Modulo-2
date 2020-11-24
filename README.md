@@ -11,4 +11,4 @@ Os endpoints são:
 - average
 - top3.
 
-O arquivo de workspace do Insomnia com as requisições pré-configuradas. O arquivo encontra-se na raiz do projeto sob o nome insomnia.json
+O arquivo de workspace do Insomnia com as requisições pré-configuradas encontra-se na raiz do projeto sob o nome insomnia.json
