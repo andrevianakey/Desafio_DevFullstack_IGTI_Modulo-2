@@ -9,5 +9,6 @@ Os endpoints são:
 - destroy
 - sum
 - average
-- top3
+- top3.
+
 O arquivo de workspace do Insomnia com as requisições pré-configuradas. O arquivo encontra-se na raiz do projeto sob o nome insomnia.json
