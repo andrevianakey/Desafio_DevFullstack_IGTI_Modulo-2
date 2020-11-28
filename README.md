@@ -1,6 +1,6 @@
 # Module 2 Challenge - Bootcamp IGTI
 
-Creation of API's with Node.js and Express.js from the bootstamp Fullstack Developer IGTI.
+Creation of API's with Node.js and Express.js from the Bootcamp Fullstack Developer IGTI.
 
 The API provides endpoints for handling the grades.json file available in src / app / datasets.
 
