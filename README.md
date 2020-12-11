@@ -1,4 +1,4 @@
-# Module 2 Challenge - Bootcamp IGTI
+# Module 2 Challenge - Bootcamp DEV Full Stack IGTI
 
 Creation of API's with Node.js and Express.js from the Bootcamp Fullstack Developer IGTI.
 
